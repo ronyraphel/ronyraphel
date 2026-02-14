@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I am Rony Raphel 💫
 Computer Science graduate from Trent University with strong experience in full-stack development, cloud technologies, and AI integration. Skilled in building scalable applications using modern frameworks, REST APIs, and tools across the Microsoft and web ecosystem. Experienced with programming languages including JavaScript, Python, Java, and C#, along with hands-on exposure to Azure, GCP, and DevOps practices. Demonstrates strong problem-solving, communication, and teamwork abilities through roles in customer service and leading large-scale events. Actively pursuing opportunities to launch a career in software development, cloud, or AI-driven roles, with a focus on continuous learning and practical impact.
 
 
