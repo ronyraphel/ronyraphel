@@ -36,7 +36,7 @@ I am a results-driven Computer Science graduate from **Trent University** with a
 
 ---
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/ronyraphel/) | [Portfolio](URL) | [Email](mailto:ronyraphelm@gmail.com) | [Postman](https://ronyraphel-3852653.postman.co/me/apis) 
+[LinkedIn](https://www.linkedin.com/in/ronyraphel/) | [Portfolio](URL) | [Email](mailto:ronyraphelm@gmail.com) | [Postman](https://www.postman.com/ronyraphel)
 
 "Energy and persistence conquer all things" - Benjamin Franklin
 
