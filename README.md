@@ -1,7 +1,7 @@
 # Hi, I'm Rony Raphel 👋 
 ### Full-Stack Developer | Cloud Enthusiast | Trent University Graduate
 
-I am a results-driven Computer Science graduate from **Trent University** with a focus on building scalable applications and integrating AI. I bridge the gap between robust backend logic (C#, Java, Python) and modern cloud infrastructure (Azure, GCP).
+I am a Computer Science graduate from **Trent University** with a focus on building scalable applications and integrating AI. I bridge the gap between robust backend logic (C#, Java, Python) and modern cloud infrastructure (Azure, GCP).
 
 - 🔭 **I’m currently:** Building AI-driven microservices and exploring DevOps automation.
 - 🎓 **Education:** B.Sc. in Computer Science, Trent University.
