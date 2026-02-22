@@ -27,7 +27,7 @@ I am a Computer Science graduate from **Trent University** with a focus on build
 ---
 
 ## 📊 GitHub Stats:
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ronyraphel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="400" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyraphel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" />
 </p>
