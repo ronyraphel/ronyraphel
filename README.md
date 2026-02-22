@@ -28,26 +28,17 @@ I am a Computer Science graduate from **Trent University** with a focus on build
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ronyraphel&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" 
-    alt="Rony's GitHub Stats" 
-    height="170"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyraphel&layout=compact&theme=tokyonight&cache_seconds=86400" 
-    alt="Top Languages" 
-    height="170"
-  />
-  <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ronyraphel&theme=tokyonight&cache_seconds=86400" 
-    alt="GitHub Streak" 
-    height="170"
-  />
-  </p>
-</p>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=ronyraphel&theme=tokyonight&show_icons=true&count_private=true" 
+  width="400" 
+  alt="GitHub stats"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyraphel&theme=tokyonight&layout=compact" 
+  width="300" 
+  alt="Top languages"
+/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ronyraphel&theme=dark&hide_border=false)
 
 ---
