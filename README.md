@@ -40,6 +40,13 @@ I am a Computer Science graduate from **Trent University** with a focus on build
     alt="Top Languages" 
     height="170"
   />
+  <p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=ronyraphel&theme=tokyonight&cache_seconds=86400" 
+    alt="GitHub Streak" 
+    height="170"
+  />
+  </p>
 </p>
 ![](https://nirzak-streak-stats.vercel.app/?user=ronyraphel&theme=dark&hide_border=false)
 
