@@ -31,7 +31,7 @@ focus:       Full-Stack Development · Cloud Architecture · AI Integration
 currently:   Building AI-driven microservices & exploring DevOps automation
 goal:        Software Development | Cloud Architecture | AI Integration
 interests:   [Travelling, Cooking, Cars 🚗]
-quote:       "Energy and persistence conquer all things." — Benjamin Franklin
+   "Energy and persistence conquer all things." — Benjamin Franklin
 ```
 
 ---
