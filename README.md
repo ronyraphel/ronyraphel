@@ -90,19 +90,17 @@ interests:   [Travelling, Cooking, Cars 🚗]
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronyraphel&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyraphel&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronyraphel&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=09090b&title_color=84cc16&icon_color=84cc16&text_color=f4f4f5" width="420" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyraphel&theme=tokyonight&layout=compact&hide_border=true&bg_color=09090b&title_color=84cc16&text_color=f4f4f5" width="310" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ronyraphel&theme=tokyonight&hide_border=true&background=09090b&ring=84cc16&fire=84cc16&currStreakLabel=84cc16" alt="GitHub Streak"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ronyraphel&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
