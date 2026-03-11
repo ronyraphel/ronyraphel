@@ -115,7 +115,7 @@ interests:   [Travelling, Cooking, Cars 🚗]
 
 ---
 
-## 🤝 Let us Connect!
+## 🤝 Let's Connect!
 
 <div align="center">
 
