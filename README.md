@@ -129,7 +129,6 @@ Whether it's a cool project or just a good conversation — reach out!
 
 </div>
 
-<_>
 
 <div align="center">
   <sub>Built with 💚 by Rony Raphel</sub>
