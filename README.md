@@ -120,7 +120,7 @@ interests:   [Travelling, Cooking, Cars 🚗]
 <div align="center">
 
 I'm open to **collaborations**, **freelance work**, and **new opportunities**.  
-Whether it's a cool project or just a good conversation — reach out!
+Whether it's a cool project or just a good conversation, reach out!
 
 <br/>
 
