@@ -127,7 +127,6 @@ Whether it's a cool project or just a good conversation, reach out!
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronyraphel/)
 [![Email](https://img.shields.io/badge/Send_an_Email-84CC16?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ronyraphelm@gmail.com)
 
-Hey i am alive here
 
 </div>
 
