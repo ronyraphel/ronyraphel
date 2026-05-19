@@ -90,10 +90,6 @@ interests:   [Travelling, Cooking, Cars 🚗]
 
 ---
 
-
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
