@@ -93,14 +93,15 @@ interests:   [Travelling, Cooking, Cars 🚗]
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronyraphel&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyraphel&layout=compact&theme=tokyonight" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ronyraphel&theme=tokyonight" height="170"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ronyraphel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=84cc16&icon_color=84cc16&text_color=ffffff" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyraphel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=84cc16&text_color=ffffff" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=ronyraphel&theme=tokyonight&hide_border=true&background=0d1117&ring=84cc16&fire=84cc16&currStreakLabel=84cc16" />
+
+</div>
 
 ---
 
