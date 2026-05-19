@@ -91,17 +91,6 @@ interests:   [Travelling, Cooking, Cars 🚗]
 ---
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ronyraphel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=84cc16&icon_color=84cc16&text_color=ffffff" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyraphel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=84cc16&text_color=ffffff" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=ronyraphel&theme=tokyonight&hide_border=true&background=0d1117&ring=84cc16&fire=84cc16&currStreakLabel=84cc16" />
-
-</div>
 
 ---
 
