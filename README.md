@@ -96,7 +96,7 @@ interests:   [Travelling, Cooking, Cars 🚗]
 |--------|-------------|-------|
 | 🌐 **[Portfolio Website](https://github.com/ronyraphel)** | Personal portfolio with React, animations & dark UI | `React` `CSS` `Tailwind` |
 | 🥚 **[Eggscape](https://scratch.mit.edu/projects/1104720161/fullscreen/)** | Interactive kids' game with logic & creativity | `Scratch` `Game Design` |
-| 💰 **DimeEasy(otw)** | Expense & income tracker with data visualization | `JavaScript` `Chart.js` |
+| 💰 **DimeEasy(COMING SOON)** | Expense & income tracker with data visualization | `JavaScript` `Chart.js` |
 | 🏍️ **BikeBlitz UI/UX** | Figma prototype for a motorcycle community app | `Figma` `UI/UX` |
 
 ---
