@@ -118,5 +118,5 @@ Whether it's a cool project or just a good conversation, reach out!
 
 
 <div align="center">
-  <sub>Built with 💚, coffee by Rony Raphel</sub>
+  <sub>Built with 💚, ☕ by Rony Raphel</sub>
 </div>
