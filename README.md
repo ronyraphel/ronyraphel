@@ -1,122 +1,89 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=32&duration=3000&pause=1000&color=84CC16&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Rony+Raphel+%F0%9F%91%8B;Full-Stack+Developer;Cloud+%26+AI+Enthusiast;CS+Grad+%40+Trent+University;One+Step+at+a+Time" alt="Typing SVG" />
+# Rony Raphel
 
-<br/>
+**Full-Stack Developer · Cloud &amp; AI Enthusiast**
 
-<!-- Badges row -->
-<a href="https://www.linkedin.com/in/ronyraphel/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ronyraphelm@gmail.com">
-  <img src="https://img.shields.io/badge/Email-84CC16?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-</a>
-<a href="https://www.postman.com/ronyraphel">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=ronyraphel&style=for-the-badge&color=84cc16&label=PROFILE+VIEWS" alt="Profile views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronyraphel/)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:ronyraphelm@gmail.com)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/ronyraphel)
+![Profile Views](https://komarev.com/ghpvc/?username=ronyraphel&style=flat-square&color=333333&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-```yaml
-name:        Rony Raphel
-location:    Canada 🇨🇦
-education:   B.Sc. Computer Science — Trent University
-focus:       Full-Stack Development · Cloud Architecture · AI Integration
-currently:   Building AI-driven microservices & exploring DevOps automation
-goal:        Software Development | Cloud Architecture | AI Integration
-interests:   [Travelling, Cooking, Cars 🚗]
-   "Energy and persistence conquer all things." — Benjamin Franklin
-```
+I'm a Computer Science graduate from Trent University with a focus on full-stack development, cloud architecture, and AI integration. I'm currently building AI-driven microservices and exploring DevOps automation practices.
+
+- 📍 Based in Canada
+- 🎓 B.Sc. Computer Science, Trent University
+- 💼 Interests: Software Development, Cloud Architecture, AI Integration
+- 🌱 Outside of work: travelling, cooking, and cars
+
+> "Energy and persistence conquer all things." — Benjamin Franklin
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ⚙️ Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white"/>
-</p>
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
 
-### 🌐 Web & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white"/>
-</p>
+**Web &amp; Frameworks**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat-square&logo=wordpress&logoColor=white)
 
-### ☁️ Cloud & Databases
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-%230089D6.svg?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-</p>
+**Cloud &amp; Databases**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### 🤖 Data Science & AI
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black"/>
-</p>
+**Data Science &amp; AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat-square&logo=matplotlib&logoColor=black)
 
-### 🔧 Tools & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
-</p>
+**Tools &amp; Workflow**
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| 🌐 **[Portfolio Website](https://github.com/ronyraphel)** | Personal portfolio with React, animations & dark UI | `React` `CSS` `Tailwind` |
-| 🥚 **[Eggscape](https://scratch.mit.edu/projects/1104720161/fullscreen/)** | Interactive kids' game with logic & creativity | `Scratch` `Game Design` |
-| 💰 **DimeEasy(COMING SOON)** | Expense & income tracker with data visualization | `JavaScript` `Chart.js` |
-| 🏍️ **BikeBlitz UI/UX** | Figma prototype for a motorcycle community app | `Figma` `UI/UX` |
+|---|---|---|
+| [Portfolio Website](https://github.com/ronyraphel) | Personal portfolio site with animations and a dark UI theme | React · CSS · Tailwind |
+| [Eggscape](https://scratch.mit.edu/projects/1104720161/fullscreen/) | Interactive kids' game built around logic and creative play | Scratch · Game Design |
+| DimeEasy *(in development)* | Expense and income tracker with data visualization | JavaScript · Chart.js |
+| BikeBlitz UI/UX | Figma prototype for a motorcycle community app | Figma · UI/UX |
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect
 
-<div align="center">
+I'm open to collaborations, freelance work, and new opportunities. Feel free to reach out.
 
-I'm open to **collaborations**, **freelance work**, and **new opportunities**.  
-Whether it's a cool project or just a good conversation, reach out!
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronyraphel/)
-[![Email](https://img.shields.io/badge/Send_an_Email-84CC16?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ronyraphelm@gmail.com)
-
-
-</div>
-
-
-<div align="center">
-  <sub>Built with 💚, ☕ by Rony Raphel</sub>
-</div>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronyraphel/)
+[![Email](https://img.shields.io/badge/Send_an_Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:ronyraphelm@gmail.com)
