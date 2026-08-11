@@ -81,7 +81,7 @@ I'm a Computer Science graduate from Trent University with a focus on full-stack
 
 ---
 
-## Let's Connect
+## Let's Connect!
 
 I'm open to collaborations, freelance work, and new opportunities. Feel free to reach out.
 
