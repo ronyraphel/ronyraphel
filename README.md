@@ -76,7 +76,7 @@ I'm a Computer Science graduate from Trent University with a focus on full-stack
 |---|---|---|
 | [Portfolio Website](https://github.com/ronyraphel) | Personal portfolio site with animations and a dark UI theme | React · CSS · Tailwind |
 | [Eggscape](https://scratch.mit.edu/projects/1104720161/fullscreen/) | Interactive kids' game built around logic and creative play | Scratch · Game Design |
-| [DimeEasy] | Expense and income tracker with data visualization | JavaScript · Chart.js |
+| [DimeEasy](https://github.com/ronyraphel/dime-easy) | Expense and income tracker with data visualization | JavaScript · Chart.js |
 | BikeBlitz UI/UX | Figma prototype for a motorcycle community app | Figma · UI/UX |
 
 ---
